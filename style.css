@@ -1,0 +1,48 @@
+.container {
+    width: 1300px;
+    height: 1000px;
+    margin: 0 auto;
+}
+
+
+.images {
+    margin-left: 40px;
+    margin-bottom: 50px;
+}
+
+.ipad {
+    margin-top: 10px ;
+    display: inline-block;
+    position: relative;
+}
+
+.iphone {
+    margin-top: 10px ;
+    display: inline-block;
+    position: relative;
+}
+
+.cuffia {
+    margin-top: 10px ;
+    display: inline-block;
+    position: relative;
+}
+
+.sconto30 {
+    border: 1px, solid green;
+    background-color: green;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    padding: 2px;
+
+}
+
+.sconto5 {
+    border: 1px, solid red;
+    background-color: red;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    padding: 2px;
+}
